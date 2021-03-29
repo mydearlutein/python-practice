@@ -1,4 +1,4 @@
-def is_palinedrome(self, head: ListNode) -> bool:
+def is_palindrome_linked_list(self, head: ListNode) -> bool:
     val_list = []
 
     while head:
